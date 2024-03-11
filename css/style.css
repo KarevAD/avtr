@@ -314,6 +314,9 @@ ul {
 }
 
 @media (max-width: 768px) {
+  .header__content::before{
+    display: none;
+  }
   .premier, .video{
     margin-bottom: 75px;
   }
