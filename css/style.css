@@ -90,6 +90,7 @@ ul {
   left: 50%;
   transform: translateX(-50%);
   bottom: -25px;
+  display: none;
 }
 .header__logo{
   margin-left: 115px;
